@@ -19,8 +19,8 @@ Click here to request your trial account: [https://www.oracle.com/cloud/free](ht
 - [Oracle Database 19c](https://www.oracle.com/database/)
 
 ## Documentation
-- [Introduction to the Multitenant Architecture](https://docs.oracle.com/en/database/oracle/oracle-database/19/multi/introduction-to-the-multitenant-architecture.html#GUID-267F7D12-D33F-4AC9-AA45-E9CD671B6F22)
-- [Multitenant Administrators Guide - 19c](https://docs.oracle.com/en/database/oracle/oracle-database/19/multi/index.html)
+- [Introduction to the Multitenant Architecture](https://docs.oracle.com/en/database/oracle/oracle-database/23/multi/introduction-to-the-multitenant-architecture.html#GUID-AB84D6C9-4BBE-4D36-992F-2BB85739329F))
+- [Multitenant Administrators Guide - 19c](https://docs.oracle.com/en/database/oracle/oracle-database/23/multi/index.html)
 - [Database Product Management YouTube Channel](https://www.youtube.com/channel/UCr6mzwq_gcdsefQWBI72wIQ)
 
 ## Videos
