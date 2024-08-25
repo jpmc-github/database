@@ -16,7 +16,7 @@ Click here to request your trial account: [https://www.oracle.com/cloud/free](ht
 
 ## Product Pages
 - [Oracle Multitenant](https://www.oracle.com/database/technologies/multitenant.html)
-- [Oracle Database 19c](https://www.oracle.com/database/)
+- [Oracle Database 23ai](https://www.oracle.com/database/)
 
 ## Documentation
 - [Introduction to the Multitenant Architecture](https://docs.oracle.com/en/database/oracle/oracle-database/23/multi/introduction-to-the-multitenant-architecture.html#GUID-AB84D6C9-4BBE-4D36-992F-2BB85739329F))
